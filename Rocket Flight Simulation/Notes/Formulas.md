@@ -12,6 +12,7 @@ Dc = Capsule DRAG
 
 P = Weight Force
 
+
 Drag:
 
 D = 1/2 p v^2 Dc A
@@ -25,6 +26,7 @@ v = Speed
 Dc = DRAG Coefficient
 
 A = Area
+
 
 Weight Force:
 
