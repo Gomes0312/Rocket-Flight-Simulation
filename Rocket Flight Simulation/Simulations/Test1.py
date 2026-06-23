@@ -24,5 +24,5 @@ Da = 0.5 * p * v**2 * Da * Aa
 t = t+dt
 v = v+a*dt
 h = h+v*dt
-if t = 8.85
+if t == 8.85:
 print (h,v,t)
