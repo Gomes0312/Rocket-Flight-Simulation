@@ -30,8 +30,10 @@ A = Area
 
 P = mg
 
-g = G M/h^2
+g = G M / (h + R)^2
 
 M = Earth mass
 
 G = Universal Gravitational Constant
+
+R = Earth radius
