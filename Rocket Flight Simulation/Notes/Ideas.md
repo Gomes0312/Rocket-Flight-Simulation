@@ -1,5 +1,9 @@
-put the values on a graphic v/t
+compare values with KSP and note the differences in %
 
-compare to KSP values
+add g not being constant
 
-add stage second stage
+add mass not being constant
+
+add atmosphere density not being constant 
+
+compare the values after every change with KSP and see the difference change
