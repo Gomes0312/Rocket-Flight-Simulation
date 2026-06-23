@@ -29,3 +29,9 @@ A = Area
 **Weight Force:**
 
 P = mg
+
+g = G M/h^2
+
+M = Earth mass
+
+G = Universal Gravitational Constant
