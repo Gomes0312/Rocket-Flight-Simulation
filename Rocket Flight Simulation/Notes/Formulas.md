@@ -1,4 +1,4 @@
-Resultant Force:
+**Resultant Force:**
 
 Fr = T - (Da + Dc + P)
 
@@ -12,8 +12,7 @@ Dc = Capsule DRAG
 
 P = Weight Force
 
-
-Drag:
+**Drag:**
 
 D = 1/2 p v^2 Dc A
 
@@ -27,7 +26,6 @@ Dc = DRAG Coefficient
 
 A = Area
 
-
-Weight Force:
+**Weight Force:**
 
 P = mg
