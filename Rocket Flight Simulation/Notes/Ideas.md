@@ -1,5 +1,6 @@
 - install vs code
-- learn to create a graph of speed x time, altitude x time, acceleration x time 
+- learn to create a graph of speed x time, altitude x time, acceleration x time
+- put in "Data" the max altitude
 - compare values with KSP and note the differences in %
 - add mass not being constant
 - add atmosphere density not being constant 
