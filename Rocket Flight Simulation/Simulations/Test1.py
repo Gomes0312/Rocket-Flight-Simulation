@@ -25,4 +25,4 @@ t = t+dt
 v = v+a*dt
 h = h+v*dt
 
-print (h,v,t)
+print(f"Max altitude = {h:.2f} meters | Max speed = {v:.2f}m/s")
