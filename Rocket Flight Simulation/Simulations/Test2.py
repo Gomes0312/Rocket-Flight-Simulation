@@ -25,8 +25,10 @@ for i in range (177):
 a = (T - D - P) / m
 Dc = 0.5 * p * v**2 * Dc * Ac
 Da = 0.5 * p * v**2 * Da * Aa
-t = t+dt
 v = v+a*dt
-h = h+v*dt
 
+a = - D - P / m
+t = t+dt
+h = h+v*dt
+v = v+a*dt
 print (h,v,t)
