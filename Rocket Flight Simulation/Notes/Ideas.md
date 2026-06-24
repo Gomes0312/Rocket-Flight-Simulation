@@ -1,8 +1,8 @@
 - install vs code
 - learn to create a graph of speed x time, altitude x time, acceleration x time
+- add that i find the max altitude instead of the altitude in max speed
 - put in "Data" the max altitude
 - compare values with KSP and note the differences in %
 - add mass not being constant
 - add atmosphere density not being constant 
 - compare the values after every change with KSP and see the difference change
-- add that i find the max altitude instead of the altitude in max speed
