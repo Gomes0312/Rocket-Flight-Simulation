@@ -2,4 +2,7 @@
 learned how to make my first simulation with air resistence but air density, acceleration of gravity and mass still being constant and learned the basics of python 
 
 **June 23:**
-added 
+added gravity not being costant
+
+**June 24:**
+
