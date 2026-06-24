@@ -3,3 +3,4 @@
 - add atmosphere density not being constant 
 - compare the values after every change with KSP and see the difference change
 - add that i find the max altitude instead of the altitude in max speed
+- create graphs of speed x time, altitude x time, acceleration x time 
