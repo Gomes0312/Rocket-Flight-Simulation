@@ -4,7 +4,7 @@ Rocket 1:
 
 - Inicial Mass = 2,350 kg
 - Fuel Mass = 1,050 kg
-- Thrust in vacuum = 163,000 N
+- Thrust in vacuum = 192,000 N
 - Thrust at sea level = 162,909 N
 - Fuel Volume = 140L
 - Fuel Consuptiom = 15.821L/s
