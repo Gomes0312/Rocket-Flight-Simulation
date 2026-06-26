@@ -1,7 +1,9 @@
 **Level 1 Data:**
-- Vmax = 2345.28 m/s
-- H in Vmax = 527.03 m
+- Max Altitude = 16488.72 meters
+- Time of flight until MaxAlt = 62.60 seconds
+- Max Speed = 527.03m/s at 2345.28 meters
 
 **Level 2 Data:**
-- Vmax = 2346.13 m/s
-- H in Vmax = 527.22 m
+- Max Altitude =  meters
+- Time of flight until MaxAlt =  seconds
+- Max Speed = m/s at  meters
