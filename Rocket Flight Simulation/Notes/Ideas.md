@@ -8,5 +8,6 @@
 - create in simulations the simulation for speed of escape from the earths gravity
 - compare values with KSP and note the differences in %
 - add mass not being constant
+- add Thrust not being constant (due to air density)
 - add atmosphere density not being constant 
 - compare the values after every change with KSP and see the difference change
