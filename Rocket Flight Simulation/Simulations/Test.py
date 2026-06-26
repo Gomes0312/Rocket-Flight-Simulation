@@ -13,6 +13,7 @@ dt = 0.05
 D = (Dc + Da)
 P = m*g
 MaxSpeed = []
+MaxSpeedAltitude = []
 #Initial Values
 h = 0
 v = 0
@@ -27,6 +28,7 @@ v = v+a*dt
 h = h+v*dt
 
 MaxSpeed.append(f"{v:.2f}")
+MaxSpeedAltitude.append(f"{h:.2f}")
 #No Propulsion
 while (v>0):
 a = (- D - P) / m
@@ -36,4 +38,4 @@ t = t+dt
 v = v+a*dt
 h = h+v*dt
 
-print(f"Max altitude = {h:.2f} meters | Max speed = {MaxSpeed}m/s | Time of flight = {t:.2f} seconds")
+print(f"Max altitude = {h:.2f} meters | Max speed = {MaxSpeed}m/s at {MaxSpeedAltitude} meters | Time of flight = {t:.2f} seconds")
