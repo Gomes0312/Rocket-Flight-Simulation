@@ -11,3 +11,4 @@
 - add Thrust not being constant (due to air density)
 - add atmosphere density not being constant 
 - compare the values after every change with KSP and see the difference change
+- Create Earth model vs Kerbin model
