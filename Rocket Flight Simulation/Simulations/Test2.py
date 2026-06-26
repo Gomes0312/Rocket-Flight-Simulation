@@ -18,7 +18,7 @@ v = 0
 t = 0
 MaxSpeed = v
 MaxSpeedAltitude = h
-#Propulsion
+#With Propulsion
 for i in range (177):
 a = (T - D - P) / m
 Dc = 0.5 * p * v**2 * Dc * Ac
