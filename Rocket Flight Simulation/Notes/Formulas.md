@@ -30,3 +30,5 @@
 - Pr = Atmosferic Pressure
 - Tv = Thrust in vacuum (0 ATM)
 - Ta = Thrust at sea level (1 ATM)
+
+<img width="796" height="417" alt="image" src="https://github.com/user-attachments/assets/ce2204ff-79e2-47f1-9c35-bf832912da2c" />
