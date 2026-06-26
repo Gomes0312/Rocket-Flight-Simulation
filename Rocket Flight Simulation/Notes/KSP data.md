@@ -8,10 +8,9 @@ Rocket 1:
 - Thrust at sea level = 162,909 N
 - Fuel Volume = 140L
 - Fuel Consuptiom = 15.821L/s
-- Combustion Time = 8.85s
+- Burn Time = 8.85s
 - Da = 0.37
 - Dc = 0.28
 - p = 1.225
 - Aa = 0.3
 - Ac = 0.91
-- Burn Time = 8.85s
