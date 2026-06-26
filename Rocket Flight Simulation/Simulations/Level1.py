@@ -1,5 +1,5 @@
 import math
-
+#With Gravity,Air density and mass being constant
 #Data
 m = 2350
 g = 9.81
