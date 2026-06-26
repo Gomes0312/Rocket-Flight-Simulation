@@ -1,7 +1,7 @@
 **put a checkmark after every thing i complete of this ideas** ✔
 - install vs code
 - put in the start of the code example: #gravity not being constant
-- how to find the time the rocket takes to stop going up because of air resistance and gravity
+- how to find the time the rocket takes to stop going up because of air resistance and gravity (after it stops having propulsion)
 - learn to create a graph of speed x time, altitude x time, acceleration x time
 - add that i find the max altitude instead of the altitude in max speed
 - put in "Data" the max altitude
