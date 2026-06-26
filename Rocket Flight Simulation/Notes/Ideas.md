@@ -1,6 +1,5 @@
 **put a checkmark after every thing i complete of this ideas** ✔
 - install vs code
-- put a checkmark after every thing i complete of this ideas
 - put in the start of the code example: #gravity not being constant
 - learn to create a graph of speed x time, altitude x time, acceleration x time
 - add that i find the max altitude instead of the altitude in max speed
