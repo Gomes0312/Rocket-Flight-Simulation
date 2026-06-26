@@ -1,3 +1,4 @@
+**put a checkmark after every thing i complete of this ideas** ✔
 - install vs code
 - put a checkmark after every thing i complete of this ideas
 - put in the start of the code example: #gravity not being constant
