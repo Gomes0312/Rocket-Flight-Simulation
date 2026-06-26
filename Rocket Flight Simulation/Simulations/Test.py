@@ -1,5 +1,5 @@
 import math
-
+#Without Gravity and Air density being constant
 #Data
 m = 2350
 g = 9.81
@@ -12,13 +12,13 @@ Ac = 0.91
 dt = 0.05
 D = (Dc + Da)
 P = m*g
-MaxSpeed = []
-MaxSpeedAltitude = []
 #Initial Values
 h = 0
 v = 0
 t = 0
-#Propulsion
+MaxSpeed = v
+MaxSpeedAltitude = h
+#With Propulsion
 for i in range (177):
 a = (T - D - P) / m
 Dc = 0.5 * p * v**2 * Dc * Ac
@@ -26,9 +26,10 @@ Da = 0.5 * p * v**2 * Da * Aa
 t = t+dt
 v = v+a*dt
 h = h+v*dt
+if v > MaxSpeed:
+MaxSpeed = v
+MaxSpeedAltitude = h
 
-MaxSpeed.append(f"{v:.2f}")
-MaxSpeedAltitude.append(f"{h:.2f}")
 #No Propulsion
 while (v>0):
 a = (- D - P) / m
@@ -38,4 +39,4 @@ t = t+dt
 v = v+a*dt
 h = h+v*dt
 
-print(f"Max altitude = {h:.2f} meters | Max speed = {MaxSpeed}m/s at {MaxSpeedAltitude} meters | Time of flight = {t:.2f} seconds")
+print(f"Max altitude = {h:.2f} meters | Max speed = {MaxSpeed:.2f}m/s at {MaxSpeedAltitude:.2f} meters | Time of flight = {t:.2f} seconds")
