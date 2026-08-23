@@ -18,15 +18,14 @@ t = 0
 
 #formulas
 D = (Dc + Da)
-P = m*g
 g = G * M / (h + R)**2
+P = m*g
 
 for i in range (177):
 a = (T - D - P) / m
 Dc = 0.5 * p * v**2 * Dc * Ac
 Da = 0.5 * p * v**2 * Da * Aa
 v = v+a*dt
-
 a = - D - P / m
 t = t+dt
 h = h+v*dt
