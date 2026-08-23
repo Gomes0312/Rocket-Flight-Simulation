@@ -1,7 +1,7 @@
 **Kerbin Information:**
 
-- Radius = 
-- Mass = 
+- Radius = 600km
+- Mass = 	5.29 × 10^22 kg
 - Atmospheric limit = 70km
 
 *Pressure and air density*:
