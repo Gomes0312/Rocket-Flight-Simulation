@@ -1,7 +1,7 @@
 import math
 #test for constant gravity
 dt = 0.001
-a = g = 10
+a = g = 9.81
 Bt = 9.999 #Tempo de queima
 #Initial values:
 v = 100
