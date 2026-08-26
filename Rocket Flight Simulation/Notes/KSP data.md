@@ -12,7 +12,7 @@
 
 **Rocket 1:**
 
-<img width="481" height="547" alt="image" src="https://github.com/user-attachments/assets/7499f988-e139-47aa-82b4-0b054916a3e6" />
+<img width="117" height="162" alt="image" src="https://github.com/user-attachments/assets/aba33620-396b-4e0c-a076-b6f161460390" />
 
 - Inicial Mass = 2,370 kg
 - Fuel Mass = 1,050 kg
