@@ -1,8 +1,8 @@
 | Etapa | O que existe        | O que testar                     |
 | ----- | ------------------- | -------------------------------- |
-| 1     | posição/velocidade  | cinemática                       |
-| 2     | gravidade constante | queda vertical                   |
-| 3     | gravidade variável  | \(g\) diminuindo com altitude    |
+| 1     | posição/velocidade  | cinemática                       |✔
+| 2     | gravidade constante | queda vertical                   |✔
+| 3     | gravidade variável  | \(g\) diminuindo com altitude    |✔
 | 4     | empuxo              | \(a=T/m-g\)                      |
 | 5     | massa variável      | aceleração aumentando            |
 | 6     | atmosfera           | \(\rho\) diminuindo              |
