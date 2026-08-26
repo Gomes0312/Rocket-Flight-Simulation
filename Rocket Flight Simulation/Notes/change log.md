@@ -5,4 +5,4 @@
 
 - now it shows the max speed and what altitude that happens, max altitude and time of flight until max altitude on level 1
 
-- tested the code for almost half of the variables i needed to recreate the level 1 simulation
+- tested the code for 3 out of the 12 variables i need to recreate the level 1 simulation without making mistakes
