@@ -12,9 +12,9 @@
 
 **Rocket 1:**
 
-<img width="65" height="155" alt="image" src="https://github.com/user-attachments/assets/606fcdee-467b-4cb7-954e-66684ff38a93" />
+<img width="481" height="547" alt="image" src="https://github.com/user-attachments/assets/7499f988-e139-47aa-82b4-0b054916a3e6" />
 
-- Inicial Mass = 2,350 kg
+- Inicial Mass = 2,370 kg
 - Fuel Mass = 1,050 kg
 - Thrust in vacuum = 192,000 N
 - Thrust at sea level = 162,909 N
